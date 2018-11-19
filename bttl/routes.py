@@ -29,7 +29,6 @@ def posted():
     return 'This data is posted'
 
 
-
 if __name__ == '__main__':
     run(debug=True, reloader=True)
 
