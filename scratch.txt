@@ -1,0 +1,11 @@
+
+
+
+
+encoded parameters
+http://127.0.0.1:8080/querytest?param1=Hello%20This%20is%20a%20test&param2=Anthony%20McClay%20encoded%20Tony%27s%20Name
+
+
+
+encoder Website
+https://www.urlencoder.org
